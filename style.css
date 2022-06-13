@@ -6,19 +6,19 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 10px;
+  padding:  10px 10px 10px 10px;;
   background: #72d6e8; 
 }
 
 .main-container {
-  max-width: 1440px;
+  max-width: 700px;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
 }
 
 table {
-border: 3px;  
+border: 1px solid;   
 }  
 
 .cv_photo {
@@ -48,6 +48,13 @@ main {
   background-color: #fffefc;
   list-style-type: none;
   padding: 10px 20px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  text-align: center;
 }
 
 .nav-list {
