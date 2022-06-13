@@ -1,2 +1,4 @@
 https://vKuptsova.github.io/rsschool-cv/cv
-https://vKuptsova.github.io/rsschool-cv/﻿
+
+https://vkuptsova.github.io/rsschool-cv/
+
